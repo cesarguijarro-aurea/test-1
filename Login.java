@@ -4,6 +4,7 @@ import javax.servlet.http.*;
 import java.sql.*;
 public class Login extends HttpServlet
 {
+/* This is only this */
 	 PrintWriter pw;
 	 Connection con;
                    Statement st;
